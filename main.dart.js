@@ -64412,7 +64412,7 @@ A.n2.prototype={
 I(a,b){return A.akt(null,new A.LH(this.c,B.Pr,B.Ps,null))}}
 A.MC.prototype={
 I(a,b){var s=null,r=A.ai(b).R8.r
-return A.k1(new A.iq(B.rR,A.l8(A.jx(s,new A.fH(B.vx,s,s,new A.cY(B.al,A.lD("Kahveinn",s,s,r==null?s:r.cX(B.k),s,s),s),s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,new A.a8E(b),s,s,s,s,s,s),B.aL,s,s,s),s),56,s)}}
+return A.k1(new A.iq(B.rR,A.l8(A.jx(s,new A.fH(B.vx,s,s,new A.cY(B.al,A.lD("Cafe-Cumhur",s,s,r==null?s:r.cX(B.k),s,s),s),s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,new A.a8E(b),s,s,s,s,s,s),B.aL,s,s,s),s),56,s)}}
 A.a8E.prototype={
 $0(){A.a(this.a.P(t.q0).f.c,"routeInformationProvider").sl(0,new A.cZ("/",null))},
 $S:0}
@@ -64433,16 +64433,16 @@ q=A.ai(b).R8.Q
 q=q==null?o:q.Jd(B.k,B.kF)
 p=A.Jw(o)
 p.aE=new A.a72(this)
-return A.afj(o,o,B.Z,!0,o,A.eZ(A.b([s,r,A.eZ(o,B.aL,p,q,"email.")],t.VO),o,o,n,"Source of the content here is "),B.kC,o,o,1,B.Q)}}
+return A.afj(o,o,B.Z,!0,o,A.eZ(A.b([s,r,A.eZ(o,B.aL,p,q,"email.")],t.VO),o,o,n,"For more information about me"),B.kC,o,o,1,B.Q)}}
 A.a70.prototype={
 $1(a){return A.u0(B.mN,a.a,B.J,!1)+"="+A.u0(B.mN,a.b,B.J,!1)},
 $S:436}
 A.a71.prototype={
-$0(){A.R6(A.fC("https://www.tasteofhome.com/article/types-of-coffee/",0,null))},
+$0(){A.R6(A.fC("https://www.linkedin.com/in/cumhurakkaya/",0,null))},
 $S:0}
 A.a72.prototype={
 $0(){var s=t.N
-A.R6(A.afX("muhammedsalihguler@gmail.com",this.a.WO(A.aI(["subject","Regarding to Kahveinn.com"],s,s)),null,"mailto"))},
+A.R6(A.afX("cmakkaya.aws@gmail.com",this.a.WO(A.aI(["subject",""],s,s)),null,"mailto"))},
 $S:0}
 A.LH.prototype={
 I(a,b){return new A.Gj(new A.a7D(this),null)}}
@@ -64456,7 +64456,7 @@ I(a,b){var s=null,r=A.b([A.awm(new A.ZU(),t.ad)],t._Z),q=A.afy(B.N,s,s).R8,p=A.e
 h=A.afy(s,A.afw(A.eI(q.y),A.eI(q.z),A.eI(q.Q),p,o,n,m,l,k,A.eI(q.as),A.eI(q.at),A.eI(q.ax),j,i,h),!0)
 i=$.apF()
 j=A.a(i.a,"routeInformationParser")
-return A.avn(new A.qi(A.a(i.c,"routeInformationProvider"),j,A.a(i.b,"routerDelegate"),"Kahveinn",h,!1,s),r)}}
+return A.avn(new A.qi(A.a(i.c,"routeInformationProvider"),j,A.a(i.b,"routerDelegate"),"Cafe-Cumhur",h,!1,s),r)}}
 A.ZU.prototype={
 $1(a){return new A.p_()},
 $S:438}
