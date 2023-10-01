@@ -64426,7 +64426,7 @@ s=A.ai(b).R8.Q
 s=s==null?o:s.Jd(B.k,B.kF)
 r=A.Jw(o)
 r.aE=new A.a71()
-s=A.eZ(o,B.aL,r,s,"Taste of Home.")
+s=A.eZ(o,B.aL,r,s,"Linkedin")
 r=A.ai(b).R8.Q
 r=A.eZ(o,o,o,r==null?o:r.cX(B.k),"\nFor any further inquires, please contact me via ")
 q=A.ai(b).R8.Q
